@@ -1,4 +1,4 @@
-# productmanager-gateway
+# productmanager-api-gateway
 api gateway of the product manager application 
 
 
